@@ -2,11 +2,11 @@
 MAT264E Applications and Algorithms
 
 ### Part 1:
-     *    Bisection Method</p>
-     *    False Position Method</p>
-    <p> *    Newton-Raphson Method</p>
-    <p> *    Muller's Method</p>
-    <p> *    Secant Method</p>
-    <p> *    Fixed Point Iteration Method</p>
-    <p> *    Newton's Method for Systems</p>
-    <p> *    Halley's Method</p>
+    *    Bisection Method
+    *    False Position Method
+    *    Newton-Raphson Method
+    *    Muller's Method
+    *    Secant Method
+    *    Fixed Point Iteration Method
+    *    Newton's Method for Systems
+    *    Halley's Method
