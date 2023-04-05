@@ -2,9 +2,9 @@
 MAT264E Applications and Algorithms
 
 Part 1:<br>
-    &nbsp Bisection Method<br>
-    Newton-Raphson Method<br>
-    Muller's Method<br>
-    Secant Method<br>
-    Newton's Method for Systems<br>
-    Halley's Method<br>
+    <p> *    Bisection Method</p>
+    <p> *    Newton-Raphson Method</p>
+    <p> *    Muller's Method</p>
+    <p> *    Secant Method</p>
+    <p> *    Newton's Method for Systems</p>
+    <p> *    Halley's Method</p>
