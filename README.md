@@ -1,6 +1,7 @@
 # Computational-Mathematics-Numeric-Methods
-MAT264E Applications and Algorithms
+Istanbul Technical University - MAT264E Computational Mathematics Lecture Applications and Algorithms
 
+## Table of Content
 ### Part 1:
     *    Bisection Method
     *    False Position Method
