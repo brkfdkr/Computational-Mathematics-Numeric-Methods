@@ -2,7 +2,7 @@
 MAT264E Applications and Algorithms
 
 Part 1:<br>
-    Bisection Method<br>
+    &nbsp Bisection Method<br>
     Newton-Raphson Method<br>
     Muller's Method<br>
     Secant Method<br>
