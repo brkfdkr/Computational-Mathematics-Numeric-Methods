@@ -1,7 +1,7 @@
 # Computational-Mathematics-Numeric-Methods
 MAT264E Applications and Algorithms
 
-### Part 1:<br>
+### Part 1:
     <p> *    Bisection Method</p>
     <p> *    False Position Method</p>
     <p> *    Newton-Raphson Method</p>
