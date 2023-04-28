@@ -1,4 +1,4 @@
-# Computational-Mathematics-Numeric-Methods
+# Computational Mathematics (Numeric Methods)
 Istanbul Technical University - MAT264E Computational Mathematics Lecture Applications and Algorithms
 
 ## Table of Content
