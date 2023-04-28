@@ -12,5 +12,5 @@ Istanbul Technical University - MAT264E Computational Mathematics Lecture Applic
     *    Newton's Method for Systems
     *    Halley's Method
 ### Part 2 - Interpolation:
-   * Polynomial Interpolation
-   * Lagrange Interpolation
+    * Polynomial Interpolation
+    * Lagrange Interpolation
