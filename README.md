@@ -18,3 +18,4 @@ Istanbul Technical University - MAT264E Computational Mathematics Lecture Applic
     *    Newton's Divided Differences Interpolation
     *    Forward Differences
     *    Backward Differences
+    *    Centered Difference (Stirling Algorithm)
