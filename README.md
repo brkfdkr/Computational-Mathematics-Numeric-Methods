@@ -1,5 +1,5 @@
 # Computational Mathematics (Numeric Methods)
-Istanbul Technical University - MAT264E Computational Mathematics Lecture Applications and Algorithms
+Computational Mathematics Applications and Algorithms
 
 ## Table of Content
 ### Part 1 - Root Finding Problems:
